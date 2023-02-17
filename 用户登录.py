@@ -1,5 +1,5 @@
 path="E:\VSCODE\CODEfield\CODE_PY\homework\\"   #此处修改成你的文件夹路径
-user_path=path+"users.txt"
+user_path=path+"users.txt"  #此处为用户数据
 from copy import deepcopy
 from operator import truediv
 import os
